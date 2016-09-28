@@ -1,7 +1,7 @@
 fn main() {
     // Take the mod of some large number to a large power
     let value = mod_of_power(324322, 87234632, 3724);
-    println!("{} {}", "324322^(87234632) mod 645:", value);
+    println!("{} {}", "324322^(87234632) mod 3724:", value);
 }
 
 /// Get the modulus of an integer raised to a power.

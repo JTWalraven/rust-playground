@@ -1,0 +1,7 @@
+[package]
+name = "hello_iron"
+version = "0.1.0"
+authors = ["Jeffrey Walraven <jeff.walraven@bti360.com>"]
+
+[dependencies]
+iron = "0.5.*"
